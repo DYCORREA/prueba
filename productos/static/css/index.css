@@ -1,0 +1,19 @@
+.padding-bodega {
+    padding: 100px;
+}
+
+.titulo-index{
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.padding-bodega_2 {
+    display: block;
+    margin: auto;
+}
+
+.padding-general {
+    padding-bottom: 100px;
+}
